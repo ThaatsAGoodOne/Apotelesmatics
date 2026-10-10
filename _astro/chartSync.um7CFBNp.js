@@ -1,0 +1,1 @@
+var e=`astro-app:current-chart-utc-date`;function t(t){localStorage.setItem(e,t.toISOString())}function n(){let t=localStorage.getItem(e);if(!t)return null;let n=new Date(t);return Number.isNaN(n.getTime())?null:n}export{n,t};

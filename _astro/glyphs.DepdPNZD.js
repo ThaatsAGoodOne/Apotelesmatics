@@ -1,0 +1,1 @@
+var e={Sun:`Q`,Moon:`R`,Mercury:`S`,Venus:`T`,Mars:`U`,Jupiter:`V`,Saturn:`W`,Uranus:`X`,Neptune:`Y`,Pluto:`Z`},t={conjunction:`!`,sextile:`%`,square:`#`,trine:`$`,opposition:`"`},n={"North Node":`☊`,"South Node":`☋`,"Part of Fortune":`⊕`,"Part of Spirit":`⊗`,"Prenatal Syzygy":`Syz`};export{n,e as r,t};
